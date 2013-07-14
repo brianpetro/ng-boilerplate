@@ -2,7 +2,8 @@ angular.module( 'ngBoilerplate', [
   'templates-app',
   'templates-common',
   'ngBoilerplate.home',
-  'ngBoilerplate.about',
+  'ngBoilerplate.about2',
+  'ngBoilerplate.example',
   'ui.state',
   'ui.route'
 ])
@@ -19,4 +20,3 @@ angular.module( 'ngBoilerplate', [
 })
 
 ;
-
